@@ -1,4 +1,9 @@
 body{
-    background-color: darkgoldenrod;
+    background-color: rgb(60, 66, 5);
+    margin: 30;
 }
 
+.links {
+    font-family: cursive;
+    color: rgb(71, 6, 6);
+}
