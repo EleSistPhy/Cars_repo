@@ -1,9 +1,35 @@
 body{
-    background-color: rgb(60, 66, 5);
-    margin: 30;
+    height: 225px;
+    width: 1333px;
+    background-image: url("autos/mustang_blanco.jpg");
+    background-size: cover;
+    background-size: 85rem;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+    float: left;
 }
 
 .links {
-    font-family: cursive;
-    color: rgb(71, 6, 6);
+    font-style: italic;
+    color: rgb(21, 146, 21);
+    text-align: center;
+    font-size: x-large;
+
+
 }
+
+.tablas {
+    font-size: small;
+    color: rgb(252, 249, 248);
+    text-align: center;
+}
+
+
+.titulos {
+    color: rgb(17, 61, 87);
+    text-align: right ;
+    font-size: larger;
+    
+}
+
