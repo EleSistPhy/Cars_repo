@@ -1,9 +1,9 @@
 body{
     height: 225px;
-    width: 1333px;
+    width: 1350px;
     background-image: url("autos/mustang_blanco.jpg");
     background-size: cover;
-    background-size: 85rem;
+    background-size: 86rem;
     background-repeat: no-repeat;
     background-position: right;
     background-attachment: fixed;
@@ -12,7 +12,7 @@ body{
 
 .links {
     font-style: italic;
-    color: rgb(21, 146, 21);
+    color: rgb(11, 100, 26);
     text-align: center;
     font-size: x-large;
 
@@ -27,9 +27,28 @@ body{
 
 
 .titulos {
-    color: rgb(17, 61, 87);
+    color: rgb(114, 11, 8);
     text-align: right ;
-    font-size: larger;
+    font-size: xx-large;
+    text-align: center;
+    text-decoration: overline underline;
     
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
+.word {
+    color: aliceblue;
+}
+
+.autos {
+    height: 390px;
+    width: 220px;
+}
+
+.parrafo {
+    color: rgb(127, 146, 22);
+    text-align: center;
+}
